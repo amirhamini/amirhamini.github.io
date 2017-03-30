@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 <img src="/assets/images/FB-profie.jpg" alt="Profile Picture" style="width:100px;height:100px;">
 
-### Email: aminia@uw.edu
+
