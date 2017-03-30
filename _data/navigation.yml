@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Image"
-    url: ../assets/images/Jep.jpg
-  - title: "Github"
-    url: https://github.com/amirhamini
+  # - title: "Image"
+  #   url: ../assets/images/Jep.jpg
+  # - title: "Github"
+  #   url: https://github.com/amirhamini
   - title: "About"
     url: _pages/about/
-  - title: "Contact"
-    url: _pages/contact/
+  # - title: "Contact"
+  #   url: _pages/contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
