@@ -2,8 +2,10 @@
 main:
   - title: "image"
     url: ./assets/images/Jep.jpg
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Github"
+    url: https://github.com/amirhamini
+  - title: "About"
+    url: https://github.com/amirhamini/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
