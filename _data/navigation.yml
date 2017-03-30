@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Image"
-    url: ./assets/images/Jep.jpg
+    url: ../assets/images/Jep.jpg
   - title: "Github"
     url: https://github.com/amirhamini
   - title: "About"
-    url: /about/
+    url: _pages/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
