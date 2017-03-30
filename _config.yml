@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Personal Website"
-title_separator          : "|"
-name                     : "Amirhossein Amini"
-description              : "An amazing website."
+title                    : "Amirhossein Amini"
+title_separator          : "-"
+#name                     : "Amirhossein Amini"
+description              : "Personal Website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
