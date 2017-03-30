@@ -6,8 +6,8 @@ main:
     url: https://github.com/amirhamini
   - title: "About"
     url: _pages/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Contact"
+    url: _pages/contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
