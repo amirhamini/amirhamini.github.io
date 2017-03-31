@@ -14,6 +14,5 @@ Je suis etudiant
     width="564" height="362"/>
     <figcaption>Photo by ...</figcaption>
     </figure>
-    </p>
-    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
 </div>
+I obtained a BS degree in Mechanical Engineering at Iran University of Science & Technology in Tehran, Iran, where I spent the first 23 years of my life.
