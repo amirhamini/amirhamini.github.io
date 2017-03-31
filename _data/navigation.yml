@@ -4,10 +4,10 @@ main:
   #   url: ../assets/images/Jep.jpg
   # - title: "Github"
   #   url: https://github.com/amirhamini
-  - title: "About"
+  - title: "About Me"
     url: _pages/about/
-  # - title: "Contact"
-  #   url: _pages/contact/
+  - title: "Contact"
+    url: _pages/contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
