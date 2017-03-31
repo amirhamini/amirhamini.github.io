@@ -3,7 +3,7 @@ layout: archive
 date:   2017-03-30 11:48:00 -0600
 categories: jekyll update
 ---
-<img src="/assets/images/FB-profie.jpg" alt="Profile Picture" style="width:200px;height:200px; float: left">
+<img src="/assets/images/flower-profile.jpg" alt="Profile Picture" style="width:200px;height:200px;">
 
 <h3>Education</h3>
 <ul>
