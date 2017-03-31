@@ -7,6 +7,13 @@ categories: jekyll update
 Je suis etudiant
 
 <div>
-    <p style="float: right;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
+    <p style="float: right;">
+    <figure style="float:right;">
+    <img alt="Tehran image"
+    src="/assets/images/Tehran-kaveh.png"
+    width="564" height="362"/>
+    <figcaption>Photo by ...</figcaption>
+    </figure>
+    </p>
     <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
 </div>
