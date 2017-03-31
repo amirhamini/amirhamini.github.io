@@ -6,9 +6,9 @@ categories: jekyll update
 <img src="/assets/images/FB-profie.jpg" alt="Profile Picture" style="width:200px;height:200px;">
 
 ## Education:
-* #### Ph.D. in Mechanical Engineering, University of Washington, 2017
-* #### M.S. in Mechanical Engineering, University of Washington, 2012
-* #### B.S. in Mechanical Engineering, Iran University of Science & Technology , 2010
+#### Ph.D. in Mechanical Engineering, University of Washington, 2017
+#### M.S. in Mechanical Engineering, University of Washington, 2012
+#### B.S. in Mechanical Engineering, Iran University of Science & Technology , 2010
 
 <div>
     <p style="float: right;">
