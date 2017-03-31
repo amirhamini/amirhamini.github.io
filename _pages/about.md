@@ -7,8 +7,10 @@ categories: jekyll update
 
 ## Education:
 Ph.D. in Mechanical Engineering, University of Washington, 2017
+
 M.S. in Mechanical Engineering, University of Washington, 2012
-B.S. in Mechanical Engineering, Iran University of Science & Technology , 2010
+
+B.S. in Mechanical Engineering, Iran University of Science & Technology, 2010
 
 <div>
     <p style="float: right;">
