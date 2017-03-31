@@ -27,4 +27,22 @@ This div element has position: relative;
 </div>
 
 </body>
+<style>
+div.relative {
+    position: relative;
+    left: 200px;
+}
+</style>
+</head>
+<body>
+
+<p>An element with position: relative; is positioned relative to its normal position:
+<div class="relative">
+This div element has position: relative;
+</div>
+</p>
+
+
+</body>
+
 </html>
