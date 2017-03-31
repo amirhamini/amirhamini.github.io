@@ -3,14 +3,15 @@ layout: archive
 date:   2017-03-30 11:48:00 -0600
 categories: jekyll update
 ---
-<img src="/assets/images/FB-profie.jpg" alt="Profile Picture" style="width:200px;height:200px;">
+<img src="/assets/images/FB-profie.jpg" alt="Profile Picture" style="width:200px;height:200px; float: left">
 
-<h2>Education</h2>
+<h3>Education</h3>
 <ul>
     <li>Ph.D. in Mechanical Engineering, University of Washington, 2017 </li>
     <li>M.S. in Mechanical Engineering, University of Washington, 2012</li>
     <li>B.S. in Mechanical Engineering, Iran University of Science & Technology, 2010</li>
 </ul>
+
 
 <div>
     <p style="float: right;">
